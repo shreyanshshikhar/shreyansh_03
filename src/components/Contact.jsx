@@ -5,7 +5,7 @@ import './Contact.css';
 const socialLinks = [
   { name: 'LinkedIn', handle: 'Shreyansh Shikhar Srivastava', href: 'https://www.linkedin.com/in/shreyansh-shikhar-srivastava', mark: 'in' },
   { name: 'GitHub', handle: 'shreyanshshikhar', href: 'https://github.com/shreyanshshikhar', mark: 'gh' },
-  { name: 'Instagram', handle: '@shreyanshsrivastava003', href: 'https://www.instagram.com/shreyanshsrivastava003?igsh=OHNtZjg3d21tbG1y', mark: 'ig' },
+  { name: 'Instagram', handle: '@shreyanshsrivastava003', href: 'https://www.instagram.com/shreyanshh1409?stkn=OHNtZjg3d21tbG1y', mark: 'ig' },
   { name: 'Email', handle: 'shreyanshshikharsrivastava@gmail.com', href: 'mailto:shreyanshshikharsrivastava@gmail.com', mark: '@' },
   { name: 'WhatsApp', handle: '+91 93xxxxxxxx', href: 'https://wa.me/919336653962?text=Hi%20Shreyansh!%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20connect.', mark: 'wa' },
 ];
